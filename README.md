@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayesh-more" alt="jayesh-more" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter , Data Structures**
+- 🌱 I’m currently learning **Flutter , Data Structures, UI-UX**
 
 - 💬 Ask me about **anything and everything**
 
