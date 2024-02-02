@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jayesh More</h1>
 <h3 align="center">I'm an Computer Student 👨‍💻, Currently in third year at PVGCOE & SSDIOM,Nashik 👨‍🎓</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fuploads-ssl.webflow.com%2F61ebe5f773be1acd620f8208%2F61fa3997c8a7f531e18d4e67_man-coding-on-laptop.gif&imgrefurl=https%3A%2F%2Fwww.webbeeglobal.com%2Fblog%2F7-things-which-make-you-a-perfect-android-app-developer&tbnid=NwRbwvQf4ud7PM&vet=12ahUKEwiFn5WNgcn9AhUIxHMBHXyOCCUQMyhOegUIARCgAQ..i&docid=LK9OX2Cu48TgmM&w=1500&h=1500&q=animated%20coding%20gif&hl=en&ved=2ahUKEwiFn5WNgcn9AhUIxHMBHXyOCCUQMyhOegUIARCgAQ>  
+<img align="right" alt="coding" width="400" src="https://www.google.com/search?q=development+img&rlz=1C1CHBD_enIN1056IN1056&oq=development+img&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCTQ5MjBqMGoxNagCALACAA&sourceid=chrome&ie=UTF-8#vhid=cDuZz6PG0rqZiM&vssid=l
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayesh-more&label=Profile%20views&color=0e75b6&style=flat" alt="jayesh-more" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayesh-more" alt="jayesh-more" /></a> </p>
