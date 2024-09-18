@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jayesh More</h1>
-<h3 align="center">I'm an Computer Student 👨‍💻, Currently in Final year at PVGCOE & SSDIOM,Nashik 👨‍🎓</h3>
+<h3 align="center">I'm an Computer Student 👨‍💻 👨‍🎓</h3>
 <img align="right" alt="coding" width="400" src="https://www.google.com/search?q=development+img&rlz=1C1CHBD_enIN1056IN1056&oq=development+img&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCTQ5MjBqMGoxNagCALACAA&sourceid=chrome&ie=UTF-8#vhid=cDuZz6PG0rqZiM&vssid=l
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayesh-more&label=Profile%20views&color=0e75b6&style=flat" alt="jayesh-more" /> </p>
 
